@@ -50,7 +50,7 @@ The analysis demonstrates that combining BMI, blood pressure, and serum triglyce
 
 
 
-However, predictive associations should not automatically be interpreted as causal effects. The model may be affected by \*\*unmeasured confounding variables, individual variability, measurement uncertainty, and other limitations\*\* inherent in observational data.
+However, predictive associations should not automatically be interpreted as causal effects. The model may be affected by **unmeasured confounding variables, individual variability, measurement uncertainty, and other limitations** inherent in observational data.
 
 
 
